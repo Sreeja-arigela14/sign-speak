@@ -37,7 +37,6 @@ AI model predicts the gesture
 Predicted output converts into text/speech
 Communication becomes easier in real time
 
-https://github.com/user-attachments/assets/a31f9c13-8c5f-49fe-868a-98f1
 
 28df835f
 
